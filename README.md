@@ -1,2 +1,2 @@
-# amazon_sales_datawarehouse
+# amazon_sales_modelling
 Amazon Sales Datawarehouse
